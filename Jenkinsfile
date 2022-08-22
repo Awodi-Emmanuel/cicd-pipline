@@ -1,0 +1,1 @@
+library identifier: 'jenkins-share@master', retriever: modern
